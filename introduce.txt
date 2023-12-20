@@ -3,6 +3,14 @@ saya adalah siswa smk, dan saya sekarang saya sudah mengerti :
 - HTML 
 - CSS
 - JAVASCRIPT
-- PHP
+- PHP (Baru 40%)
 
 kedepannya saya akan belajar :
+- Framework CSS
+ ^ Bootsrap
+- Frameworkd JS
+ ^ React JS
+ ^ Vue JS
+- Framework PHP 
+ ^ Laravel
+- Belajar MySQL
