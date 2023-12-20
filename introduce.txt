@@ -6,3 +6,11 @@ saya adalah siswa smk, dan saya sekarang saya sudah mengerti :
 - PHP
 
 kedepannya saya akan belajar :
+- Framework CSS
+ ^ Tailwind
+- Frameworkd JS
+ ^ React JS
+ ^ Astro JS
+- Framework PHP 
+ ^ Laravel
+- Belajar MySQL
