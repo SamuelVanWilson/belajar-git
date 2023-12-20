@@ -7,10 +7,10 @@ saya adalah siswa smk, dan saya sekarang saya sudah mengerti :
 
 kedepannya saya akan belajar :
 - Framework CSS
- ^ Bootsrap
+ ^ Tailwind
 - Frameworkd JS
  ^ React JS
- ^ Vue JS
+ ^ Astro JS
 - Framework PHP 
  ^ Laravel
 - Belajar MySQL
